@@ -1,4 +1,4 @@
-<h1>DEVELOPMENT WEB</h1><span>junior</span>
+<h1>DEVELOPMENT WEB</h1><span style="border: 1px solid #fff">JUNIOR</span>
 
 - 👋 Hi, I’m Luis Ernesto
 - 👀 I’m interested in development web
